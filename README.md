@@ -1,0 +1,1 @@
+一定要先设置好KICAD_USER_3DMODEL_DIR环境变量！
